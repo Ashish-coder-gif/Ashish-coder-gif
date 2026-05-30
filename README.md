@@ -1,151 +1,171 @@
-<!-- ╔══════════════════════════════════════════════════════╗ -->
-<!-- ║        AASHU — github.com/Ashish-coder-gif           ║ -->
-<!-- ╚══════════════════════════════════════════════════════╝ -->
+# <div align="center">
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Ashish+Dohare+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;AWS+Cloud+Learner;Always+Learning+New+Things" />
 
-<!-- ANIMATED TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=80&lines=AASHU;FULL-STACK+DEV;ASHISH-CODER-GIF;BUILDING+IN+THE+DARK+%F0%9F%96%A4)](https://git.io/typing-svg)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Ashish-coder-gif&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Ashish-coder-gif?style=for-the-badge&color=8B5CF6" />
+  <img src="https://img.shields.io/github/stars/Ashish-coder-gif?affiliations=OWNER&style=for-the-badge&color=8B5CF6" />
+</p>
 
-```
-// full-stack developer · open to work · building dark things
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ashish-coder-gif&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-7c3aed?style=flat-square&labelColor=030308)
-![Repos](https://img.shields.io/badge/Repos-57+-ec4899?style=flat-square&labelColor=030308)
-![Contributions](https://img.shields.io/badge/Contributions-170+-a855f7?style=flat-square&labelColor=030308)
-![Email](https://img.shields.io/badge/ashishdohare1116@gmail.com-0a0a0f?style=flat-square&logo=gmail&logoColor=ec4899)
+### 🚀 Building • Learning • Growing
 
 </div>
 
 ---
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashish-coder-gif/Ashish-coder-gif/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashish-coder-gif/Ashish-coder-gif/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ashish-coder-gif/Ashish-coder-gif/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### ▍ identity.js
+# 💫 About Me
 
 ```javascript
-const aashu = {
-  username:  "Ashish-coder-gif",
-  email:     "ashishdohare1116@gmail.com",
-  focus:     "Full Stack Development",
-  repos:     57,
-  streak:    170, // contributions
-  learning:  ["Open Source", "System Design", "DevOps"],
-  vibe:      "dark & mysterious 🖤",
-  catFact:   "my pfp codes better than most devs"
+const ashish = {
+    education: "B.Tech Computer Science",
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
+    
+    currentlyLearning: [
+        "System Design",
+        "AWS Cloud",
+        "DevOps",
+        "Open Source"
+    ],
+
+    languages: ["Java", "JavaScript", "Python", "C", "C++"],
+
+    interests: [
+        "Web Development",
+        "Cloud Computing",
+        "AI & Machine Learning",
+        "Open Source"
+    ],
+
+    motto: "Code. Learn. Improve. Repeat."
 };
 ```
 
----
-
-### ▍ skills.exe
-
-```
-JavaScript  ████████████████████░░░░  82%
-Python      ██████████████████░░░░░░  75%
-C / C++     █████████████████░░░░░░░  68%
-React       ██████████████████░░░░░░  72%
-Node.js     ████████████████░░░░░░░░  65%
-Docker      █████████████░░░░░░░░░░░  50%
-```
+* 🎓 Computer Science Student
+* 🌱 Learning Full Stack Development
+* ☁ Exploring AWS & Cloud Technologies
+* 🚀 Open Source Contributor
+* 💡 Passionate about solving real-world problems through code
+* 📚 Always learning something new
 
 ---
 
-### ▍ arsenal.config
+# 🛠 Tech Stack
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-030308?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![Python](https://img.shields.io/badge/Python-030308?style=for-the-badge&logo=python&logoColor=3b82f6)
-![C](https://img.shields.io/badge/C-030308?style=for-the-badge&logo=c&logoColor=c084fc)
-![C++](https://img.shields.io/badge/C++-030308?style=for-the-badge&logo=cplusplus&logoColor=a855f7)
+### Languages
 
-**Tools & Frameworks**
-![React](https://img.shields.io/badge/React-030308?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-030308?style=for-the-badge&logo=nodedotjs&logoColor=4ade80)
-![Docker](https://img.shields.io/badge/Docker-030308?style=for-the-badge&logo=docker&logoColor=2496ed)
-![Git](https://img.shields.io/badge/Git-030308?style=for-the-badge&logo=git&logoColor=f05032)
-![matplotlib](https://img.shields.io/badge/matplotlib-030308?style=for-the-badge&logo=python&logoColor=38bdf8)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws" />
+</p>
 
 ---
 
-### ▍ pinned.repos
-
-| ░ | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 01 | [**my-blank-project**](https://github.com/Ashish-coder-gif/my-blank-project) | Add your killer description here! | — |
-| 02 | [**first-contributions**](https://github.com/Ashish-coder-gif/first-contributions) | 🚀✨ Help beginners contribute to open source | OSS |
-| 03 | [**matplotlib**](https://github.com/Ashish-coder-gif/matplotlib) | Forked · plotting with Python | Python |
-| 04 | [**uftrace**](https://github.com/Ashish-coder-gif/uftrace) | Forked · function graph tracer C/C++/Rust/Python | C |
-| 05 | [**stumpless**](https://github.com/Ashish-coder-gif/stumpless) | Forked · fast logging library for C | C |
-
----
-
-### ▍ github.stats
+# 📊 GitHub Analytics
 
 <div align="center">
 
-![Aashu's Stats](https://github-readme-stats.vercel.app/api?username=Ashish-coder-gif&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=030308&title_color=a855f7&text_color=4a4a7a&icon_color=7c3aed&ring_color=ec4899)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish-coder-gif&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Streak](https://streak-stats.demolab.com?user=Ashish-coder-gif&theme=dark&hide_border=true&background=030308&ring=7c3aed&fire=ec4899&currStreakLabel=a855f7&sideLabels=4a4a7a&dates=2a2a45)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-coder-gif&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-coder-gif&layout=compact&theme=midnight-purple&hide_border=true&bg_color=030308&title_color=a855f7&text_color=4a4a7a)
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashish-coder-gif&bg_color=030308&color=a855f7&line=7c3aed&point=ec4899&area=true&hide_border=true)
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-coder-gif&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-### ▍ find.me
+# 🏆 Achievements & Goals
 
-<div align="center">
+* 🎯 Building strong foundations in DSA and System Design
+* ☁ Working towards Cloud and AWS expertise
+* 🌍 Contributing to Open Source projects
+* 💻 Creating impactful software projects
+* 📈 Growing consistently as a developer
 
-[![Email](https://img.shields.io/badge/📧_ashishdohare1116@gmail.com-030308?style=for-the-badge&logo=gmail&logoColor=ec4899)](mailto:ashishdohare1116@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_Ashish--coder--gif-030308?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/Ashish-coder-gif)
+---
 
-</div>
+# 🚀 Featured Projects
+
+### 🏦 Banking Management System
+
+A BST-based banking application in C for efficient customer management and record handling.
+
+### 🌐 Full Stack Web Projects
+
+Building responsive web applications using modern technologies.
+
+### 📊 Data Visualization
+
+Exploring Python and Matplotlib for data analysis and visualization.
+
+### 🤝 Open Source Contributions
+
+Actively contributing to beginner-friendly and community-driven projects.
+
+---
+
+# 📚 Currently Learning
+
+```text
+✓ Java Programming
+✓ Data Structures & Algorithms
+✓ React Development
+✓ Backend Development
+✓ AWS Cloud Fundamentals
+✓ DevOps Basics
+```
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-coder-gif&theme=tokyo-night&hide_border=true" />
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ashishdohare1116@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ashish-coder-gif">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
-<sub>
 
-```
-// CRAFTED WITH INTENT. NOT TEMPLATES. 🖤
-// AASHU · ASHISH-CODER-GIF · 2025
-```
+### ✨ "Success is the sum of small efforts repeated every day."
 
-</sub>
+⭐ Thanks for visiting my profile!
+
 </div>
-
-<!-- ══ TO ENABLE SNAKE ANIMATION ══════════════════════════ -->
-<!-- Add this GitHub Action to .github/workflows/snake.yml: -->
-<!--                                                         -->
-<!-- on:                                                      -->
-<!--   schedule: [{cron: "0 */12 * * *"}]                   -->
-<!--   workflow_dispatch:                                     -->
-<!-- jobs:                                                    -->
-<!--   snake:                                                 -->
-<!--     runs-on: ubuntu-latest                              -->
-<!--     steps:                                              -->
-<!--       - uses: Platane/snk@v3                            -->
-<!--         with:                                           -->
-<!--           github_user_name: Ashish-coder-gif            -->
-<!--           outputs: |                                    -->
-<!--             dist/github-contribution-grid-snake.svg     -->
-<!--       - uses: crazy-max/ghaction-github-pages@v3        -->
-<!--         with:                                           -->
-<!--           target_branch: output                         -->
-<!--           build_dir: dist                               -->
-<!--         env:                                            -->
-<!--           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}    -->
-<!-- ════════════════════════════════════════════════════════ -->
