@@ -1,201 +1,362 @@
-Here is the final, fully-optimized visual cyberpunk README.md code. You can copy and paste this directly into your repository's `README.md` file:
-
-```markdown
-<!-- 
-    ╔══════════════════════════════════════════════════════════════╗
-    ║  SYS_ACCESS: GRANTED                                        ║
-    ║  DEVELOPER: ASHISH DOHARE                                   ║
-    ║  STATUS: CORE SYSTEM FUNCTIONAL                              ║
-    ╚══════════════════════════════════════════════════════════════╝
--->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Ashish%20Dohare&fontSize=90&color=0:00f5ff,100:7b2ff7&stroke=00f5ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Open%20Source%20Enthusiast&descSize=20&descAlignY=75&descAlign=50" width="100%" />
 
 <div align="center">
 
-<!-- GLITCH TERMINAL / FUTURISTIC CYBERPUNK HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=ASHISH%20DOHARE&fontSize=65&fontColor=00f2fe&stroke=f355da&strokeWidth=2&fontAlignY=40&desc=SYSTEM%20ARCHITECT%20//%20FULL%20STACK%20ENGINEER&descAlignY=65&descSize=18&descColor=f355da" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=🚀+Building+full+stack+from+scratch+—+C+to+Cloud;💡+CS+Student+who+ships+real+software;🌏+Based+in+India+%7C+Available+for+Internships;🔥+Turning+coffee+into+code+since+day+one;⚡+Open+Source+%7C+System+Design+%7C+DevOps)](https://git.io/typing-svg)
 
-<br>
+<br/>
 
-<!-- NEON ANIMATED COMMAND LINE -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=900&height=50&lines=%3E_Initializing+matrix_protocols...;%3E_npm+run+build+--env%3Dproduction;%3E_Status%3A+Building+high-scale+distributed+apps;%3E_Welcome+to+the+Core.)](https://git.io/typing-svg)
-
-<br>
-
-<!-- PREMIUM CYBERPUNK BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Mainframe-Linux%20%7C%20Docker-00f2fe?style=for-the-badge&logo=docker&logoColor=0d1117&labelColor=0d1117" alt="Docker Core" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Zone-India%20%5BIST%5D-f355da?style=for-the-badge&logo=githubops&logoColor=white&labelColor=0d1117" alt="Zone" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Stack-MERN%20%2B%20C%2B%2B-00f2fe?style=for-the-badge&logo=react&logoColor=00f2fe&labelColor=0d1117" alt="Stack" />
-</p>
+<a href="https://github.com/Ashish-coder-gif">
+  <img src="https://img.shields.io/badge/-%40Ashish--coder--gif-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117&color=0d1117" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Ashish-coder-gif&label=👁+Profile+Views&color=7b2ff7&style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/github/followers/Ashish-coder-gif?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github&logoColor=00f5ff" />
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-ff6b6b?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
+<br/>
+
 ---
 
-<!-- TERMINAL / ABOUT ME -->
-### ⚡ System Terminal
+<img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
-```bash
-$ setup --verbose --target=ashish-dohare
-```
-
-<table align="center" width="100%">
-<tr>
-<td width="60%">
+## `$ cat about_me.txt`
 
 ```yaml
-# Core Config
-system:
-  identity: "Ashish Dohare"
-  role: "CS Student & Aspiring Full Stack Architect"
-  focus: ["Backend Scale", "Distributed Systems", "Cloud Compute"]
-  location: "India"
+name:        Ashish Dohare
+alias:       Ashish-coder-gif
+role:        CS Student → Full Stack Developer
+location:    India 🇮🇳
+pronouns:    he/him
 
-# Active Processes
-processing:
-  building: "Modern high-concurrency web systems"
-  learning: ["AWS Solution Architect Path", "Advanced System Design"]
-  ide: "VS Code / Vim"
+passions:
+  - Full Stack Development
+  - Open Source Contribution
+  - Cloud Architecture
+  - AI & Machine Learning
+  - DevOps Culture
+
+currently:
+  learning:  [AWS, System Design, AI/ML]
+  building:  Full-stack production apps
+  reading:   Designing Data-Intensive Applications
+
+mindset:     "Ship it. Learn from it. Improve it."
+available:   YES — internships & open source collabs
 ```
 
+<br clear="right"/>
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧠 Languages
+<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp&theme=dark&perline=5" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark&perline=5" />
+
 </td>
-<td width="40%" align="center">
-  <img src="https://media.giphy.com/media/QAPy1xsaEgG98F890t/giphy.gif" width="150" alt="Cyber Grid Animation" />
+<td align="center" width="50%">
+
+### ⚙️ Backend & DB
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark&perline=5" />
+
+### ☁️ DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux&theme=dark&perline=5" />
+
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-### ⚔️ Tech Arsenal Matrix
+## 📊 GitHub Battle Stats
 
 <div align="center">
 
-| Core Languages | Frameworks & Libraries | DevOps & Environments |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux&theme=dark" /> |
+<img src="https://github-readme-stats.vercel.app/api?username=Ashish-coder-gif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9&ring_color=7b2ff7" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-coder-gif&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-coder-gif&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b2ff7&ring=00f5ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00f5ff&sideLabels=7b2ff7&dates=8b949e" />
 
 </div>
 
 ---
 
-### 🔮 Interactive Grid HUD
+## 📈 Contribution Galaxy
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ashish-coder-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=f355da&text_color=c9d1d9&ring_color=00f2fe&count_private=true&include_all_commits=true" height="195" alt="Stats" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-coder-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&langs_count=6" height="195" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-coder-gif&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f2fe&ring=f355da&fire=00f2fe&currStreakLabel=00f2fe&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="100%" alt="Streak" />
-    </td>
-  </tr>
-</table>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashish-coder-gif&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff6b6b&area_color=7b2ff710&area=true&hide_border=true&custom_title=Ashish's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-### 🐍 Active Contribution Snake
+## 🐍 Snake Eating My Commits
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashish-coder-gif/Ashish-coder-gif/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashish-coder-gif/Ashish-coder-gif/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ashish-coder-gif/Ashish-coder-gif/output/github-snake-dark.svg" width="95%" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ashish-coder-gif/Ashish-coder-gif/output/github-snake-dark.svg" />
 </picture>
 
-</div>
-
----
-
-### 📈 Activity Matrix Logs
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-coder-gif&bg_color=0d1117&color=00f2fe&line=f355da&point=ffffff&area=true&area_color=00f2fe&hide_border=true&custom_title=System%20Logs" width="100%" />
+<sub>🔧 Enable this by setting up the <a href="https://github.com/Platane/snk">snk GitHub Action</a> in your profile repo</sub>
 
 </div>
 
 ---
 
-### 🏆 Featured Core Units
+## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Ashish-coder-gif/Banking-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish-coder-gif&repo=Banking-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=f355da&text_color=c9d1d9" alt="Banking Management System" />
+<a href="https://github.com/Ashish-coder-gif">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish-coder-gif&repo=banking-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9" />
 </a>
 
 </div>
 
+<br/>
+
+<table align="center">
+<thead>
+<tr>
+<th>🛰️ Project</th>
+<th>📖 Description</th>
+<th>🔧 Stack</th>
+<th>🎯 Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>🏦 Banking Mgmt System</b></td>
+<td>Full banking ops in C — BST-powered, O(log n) lookups, ledger, transactions, account lifecycle</td>
+<td><code>C</code> <code>BST</code> <code>DSA</code></td>
+<td>✅ Shipped</td>
+</tr>
+<tr>
+<td><b>🌐 Full Stack Web Apps</b></td>
+<td>Production-quality React + Node.js apps with REST APIs, auth, and DB integration</td>
+<td><code>React</code> <code>Node</code> <code>Express</code></td>
+<td>🔨 Building</td>
+</tr>
+<tr>
+<td><b>📊 Python Data Viz</b></td>
+<td>End-to-end data pipelines, exploration notebooks, and publication-quality charts</td>
+<td><code>Python</code> <code>Pandas</code> <code>Matplotlib</code></td>
+<td>✅ Shipped</td>
+</tr>
+<tr>
+<td><b>🤝 Open Source</b></td>
+<td>Hunting good-first-issues, submitting PRs, reviewing code, building in public</td>
+<td>Various</td>
+<td>🌱 Active</td>
+</tr>
+</tbody>
+</table>
+
 ---
 
-### 🎯 2026 Core Protocols
+## 🔨 Currently in the Lab
+
+```bash
+$ git status --porcelain
+```
+
+```diff
++ [BUILDING]  Full-stack production app — auth, API, DB, deployment. The whole stack.
++ [STUDYING]  AWS Cloud Practitioner — infrastructure, IAM, S3, EC2, VPC
++ [GRINDING]  System Design — load balancing, caching, CAP theorem, distributed systems
++ [SHIPPING]  Open source PRs — finding repos, making meaningful contributions
++ [LEVELING]  DSA advanced — graphs, segment trees, dynamic programming
+~ [PLANNED]   First AI/ML integration in a real project
+```
+
+---
+
+## 🧠 Developer Philosophy
 
 <div align="center">
 
-```text
-[■■■■■■■■□□]  80%  Advanced Web Engineering (MERN + Typescript)
-[■■■■■■□□□□]  60%  AWS Infrastructure Deployments
-[■■■■■□□□□□]  50%  Distributed Architectures & High Concurrency
-[■■■■□□□□□□]  40%  DevOps Automation & CI/CD Setup
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   "I don't just want to be someone who knows how to use frameworks.       ║
+║    I want to understand the foundations well enough to build one."        ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
+| Principle | What it means in practice |
+|-----------|--------------------------|
+| 🏗️ **Foundations first** | Implemented a BST before building a CRUD app. Know *why* before *how*. |
+| 🔍 **Read the source** | When docs fail, open the repo. The truth lives in the code. |
+| 📦 **Ship, don't perfect** | A shipped MVP beats a perfect repo with 0 commits last month. |
+| 🤝 **Build in public** | Open source everything learnable. Feedback > silence. |
+| 🔁 **Compound learning** | 1% better every day. Stack the reps. Results come later. |
+
 ---
 
-### 🎧 Node Active Signal
+## 🎯 2026 Missions
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00f2fe&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+| # | Mission | Target | Progress |
+|---|---------|--------|----------|
+| 01 | ☁️ AWS Cloud Practitioner Certified | Q2 2026 | `████░░░░░░` 40% |
+| 02 | 🛠️ Ship 3 full production-grade apps | Dec 2026 | `██░░░░░░░░` 20% |
+| 03 | 🤝 Contribute to 5+ OSS repos | Dec 2026 | `███░░░░░░░` 30% |
+| 04 | 💼 Secure a software engineering internship | Mid 2026 | `█████░░░░░` 50% |
+| 05 | 🧠 Complete a System Design curriculum | Q3 2026 | `██░░░░░░░░` 20% |
+| 06 | 🤖 Build a project with real AI/ML | Q4 2026 | `█░░░░░░░░░` 10% |
+| 07 | ✍️ Launch a technical blog | Q2 2026 | `████░░░░░░` 40% |
 
 </div>
 
 ---
 
+## 🏆 Trophy Case
+
 <div align="center">
 
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=Ashish-coder-gif&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" width="98%"/>
-
-<br><br>
-
-<!-- CONNECT NETWORKS -->
-<p align="center">
-  <a href="https://linkedin.com/in/ashish-dohare" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Link_Signal-00f2fe?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ashishdohare@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Secure_Ping-f355da?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" />
-  </a>
-</p>
-
-<br>
-
-<!-- CYBER WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:f355da,100:00f2fe&height=100&section=footer" width="100%"/>
-
-`⚡ INTRUDER ALERT: SECURITY LEVEL ELITE -- CONNECTION TERMINATED ⚡`
-
-<!-- 
-    SYS_LOG: Ashish-coder-gif
-    matrix: active
-    Easter Egg: "I found the matrix"
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ashish-coder-gif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+
+## 📬 Find Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ashish-dohare">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/Ashish-coder-gif">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="mailto:ashishdohare@example.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://twitter.com/ashishcoder">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+> 💬 *I reply to every DM about internships, open source, or just nerding out about tech.*
+
+</div>
+
+---
+
+<details>
+<summary><b>🔐 Secret Level Unlocked — For Developers Only</b></summary>
+
+<br/>
+
 ```
+You made it to the bottom. Respect.
+
+Here's something most people skip:
+
+$ man ashish
+
+NAME
+    ashish — a developer worth knowing
+
+SYNOPSIS
+    ashish [--build] [--collab] [--hire]
+
+OPTIONS
+    --build     Brings ideas from zero to deployed
+    --collab    Prefers pairing over solo
+    --hire      Currently available for internships
+
+BUGS
+    Occasionally over-engineers simple problems.
+    Compensates by reading the source code instead of the docs.
+
+SEE ALSO
+    github(1), linux(1), coffee(∞)
+```
+
+</details>
+
+<details>
+<summary><b>⚙️ My Dev Environment</b></summary>
+
+<br/>
+
+```toml
+[system]
+os         = "Ubuntu / WSL2"
+editor     = "VS Code + Vim keybindings"
+terminal   = "Zsh + Oh My Zsh + Starship"
+multiplexer = "tmux"
+
+[preferences]
+indentation = "spaces (2)"
+theme       = "Tokyo Night"
+font        = "JetBrains Mono"
+music       = "lo-fi hip hop radio 🎵"
+coffee      = "black, no sugar, always"
+
+[philosophy]
+tabs_vs_spaces = "spaces. end of discussion."
+dark_vs_light  = "dark mode or nothing"
+vim_vs_emacs   = "vim. obviously."
+```
+
+</details>
+
+<details>
+<summary><b>🧩 Binary Easter Egg</b></summary>
+
+<br/>
+
+```
+01000111 01110010 01100101 01100001 01110100
+00100000 01100100 01100101 01110110 01110011
+00100000 01110010 01100101 01100001 01100100
+00100000 01100100 01101111 01100011 01110011
+```
+
+> Decode it. You already know how. 👾
+
+</details>
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00f5ff&height=120&section=footer&text=Let's+build+something+great&fontColor=ffffff&fontSize=22&fontAlignY=70&animation=fadeIn" width="100%" />
+
+</div>
