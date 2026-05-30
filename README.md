@@ -1,362 +1,508 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Ashish%20Dohare&fontSize=90&color=0:00f5ff,100:7b2ff7&stroke=00f5ff&strokeWidth=2&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20CS%20Student%20%7C%20Open%20Source%20Enthusiast&descSize=20&descAlignY=75&descAlign=50" width="100%" />
+Viewed README.md:1-503
+
+Here is the complete **README.md** content:
+
+```markdown
+<!-- 
+    ╔══════════════════════════════════════════════════════════════╗
+    ║  Hey, you found the source! Welcome to the matrix.         ║
+    ║  If you're reading this, you're the kind of dev I respect. ║
+    ║  Here's a cookie: 🍪                                       ║
+    ║  Now go build something awesome.                           ║
+    ╚══════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=800&lines=🚀+Building+full+stack+from+scratch+—+C+to+Cloud;💡+CS+Student+who+ships+real+software;🌏+Based+in+India+%7C+Available+for+Internships;🔥+Turning+coffee+into+code+since+day+one;⚡+Open+Source+%7C+System+Design+%7C+DevOps)](https://git.io/typing-svg)
+<!-- CUSTOM ASCII BANNER -->
+```
+     █████╗ ███████╗██╗  ██╗██╗███████╗██╗  ██╗
+    ██╔══██╗██╔════╝██║  ██║██║██╔════╝██║  ██║
+    ███████║███████╗███████║██║███████╗███████║
+    ██╔══██║╚════██║██╔══██║██║╚════██║██╔══██║
+    ██║  ██║███████║██║  ██║██║███████║██║  ██║
+    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+    ██████╗  ██████╗ ██╗  ██╗ █████╗ ██████╗ ███████╗
+    ██╔══██╗██╔═══██╗██║  ██║██╔══██╗██╔══██╗██╔════╝
+    ██║  ██║██║   ██║███████║███████║██████╔╝█████╗  
+    ██║  ██║██║   ██║██╔══██║██╔══██║██╔══██╗██╔══╝  
+    ██████╔╝╚██████╔╝██║  ██║██║  ██║██║  ██║███████╗
+    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
-<br/>
+<!-- ANIMATED TYPING BANNER -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%F0%9F%9A%80+Full+Stack+Developer+in+the+Making;%E2%9A%A1+Building+Systems+That+Scale;%F0%9F%94%A5+Turning+Coffee+into+Production+Code;%F0%9F%8C%8D+Open+Source+Enthusiast+from+India)](https://git.io/typing-svg)
 
-<a href="https://github.com/Ashish-coder-gif">
-  <img src="https://img.shields.io/badge/-%40Ashish--coder--gif-0d1117?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117&color=0d1117" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Ashish-coder-gif&label=👁+Profile+Views&color=7b2ff7&style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/github/followers/Ashish-coder-gif?label=Followers&style=for-the-badge&color=00f5ff&labelColor=0d1117&logo=github&logoColor=00f5ff" />
-<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-ff6b6b?style=for-the-badge&labelColor=0d1117" />
+<br>
+
+<!-- PROFILE BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=Ashish-coder-gif&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Ashish-coder-gif?logo=GitHub&style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/Ashish-coder-gif)
+&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/Ashish-coder-gif?logo=github&style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/Ashish-coder-gif)
 
 </div>
 
-<br/>
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=header" width="100%"/>
 
----
-
-<img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
-
-## `$ cat about_me.txt`
+<!-- ABOUT ME -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;Who Am I?
 
 ```yaml
-name:        Ashish Dohare
-alias:       Ashish-coder-gif
-role:        CS Student → Full Stack Developer
-location:    India 🇮🇳
-pronouns:    he/him
+name: Ashish Dohare
+location: India 🇮🇳
+role: Computer Science Student | Aspiring Full Stack Developer
+education: B.Tech in Computer Science
 
-passions:
-  - Full Stack Development
-  - Open Source Contribution
-  - Cloud Architecture
-  - AI & Machine Learning
-  - DevOps Culture
+currently_working_on: Building production-grade full stack applications
+currently_learning: ["AWS Cloud Architecture", "System Design", "Distributed Systems"]
+ask_me_about: ["Java", "Web Dev", "Data Structures", "Open Source", "System Design"]
 
-currently:
-  learning:  [AWS, System Design, AI/ML]
-  building:  Full-stack production apps
-  reading:   Designing Data-Intensive Applications
-
-mindset:     "Ship it. Learn from it. Improve it."
-available:   YES — internships & open source collabs
+fun_fact: "I debug code faster than I debug my life decisions"
+motto: "Ship it, break it, fix it, repeat."
 ```
 
-<br clear="right"/>
+<br>
 
----
-
-## ⚡ Tech Arsenal
+<!-- DEVELOPER PHILOSOPHY -->
+## 🧠 Developer Philosophy
 
 <div align="center">
 
-<table>
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   "I don't just write code — I engineer solutions.                ║
+║    Every line should justify its existence.                        ║
+║    Every system should be designed to outlive its creator.         ║
+║    Clean code is not a luxury. It's a discipline."                ║
+║                                                                    ║
+║                                        — Ashish Dohare            ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table align="center">
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
-### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=java,js,python,c,cpp&theme=dark&perline=5" />
+**🏗️ Architecture First** — I design before I code. Whiteboards before keyboards. Understanding the problem > jumping to the solution.
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark&perline=5" />
+**📐 Clean Code Advocate** — Readable code is maintainable code. If your function needs a comment to explain what it does, rename the function.
 
 </td>
-<td align="center" width="50%">
+<td width="50%">
 
-### ⚙️ Backend & DB
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark&perline=5" />
+**🔄 Iterate Relentlessly** — Ship the MVP, gather feedback, improve. Perfection is the enemy of progress, but mediocrity is the enemy of growth.
 
-### ☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux&theme=dark&perline=5" />
+**🤝 Open Source Mindset** — The best code is code that helps others. Contributing to open source isn't charity — it's how I sharpen my craft.
 
 </td>
 </tr>
 </table>
 
-</div>
+<br>
 
----
-
-## 📊 GitHub Battle Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashish-coder-gif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9&ring_color=7b2ff7" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-coder-gif&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" height="180"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-coder-gif&theme=tokyonight&hide_border=true&background=0d1117&stroke=7b2ff7&ring=00f5ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00f5ff&sideLabels=7b2ff7&dates=8b949e" />
-
-</div>
-
----
-
-## 📈 Contribution Galaxy
+<!-- CURRENTLY BUILDING -->
+## 🔨 Currently Building
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashish-coder-gif&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ff6b6b&area_color=7b2ff710&area=true&hide_border=true&custom_title=Ashish's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| Project | Description | Stack | Status |
+|:-------:|:-----------:|:-----:|:------:|
+| 🏦 **Banking System** | Full-featured banking management system with BST-based data handling | `C` `DSA` `File I/O` | ![Status](https://img.shields.io/badge/Active-00d9ff?style=flat-square) |
+| 🌐 **Full Stack Apps** | Production-grade web applications with modern architecture | `React` `Node.js` `MongoDB` | ![Status](https://img.shields.io/badge/Building-ff6b6b?style=flat-square) |
+| 📊 **Data Viz Suite** | Python-powered data visualization & analysis toolkit | `Python` `Matplotlib` `Pandas` | ![Status](https://img.shields.io/badge/Evolving-ffd93d?style=flat-square) |
+| 🛠️ **Open Source** | Contributing to projects that matter | `Various` | ![Status](https://img.shields.io/badge/Ongoing-6bcb77?style=flat-square) |
 
 </div>
 
----
+<br>
 
-## 🐍 Snake Eating My Commits
+<!-- TECH STACK -->
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+<p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,c,cpp&theme=dark&perline=5" />
+</a>
+</p>
+
+### 🧰 Frameworks & Libraries
+<p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css&theme=dark&perline=5" />
+</a>
+</p>
+
+### 🛠️ DevOps & Tools
+<p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman,mongodb&theme=dark&perline=8" />
+</a>
+</p>
+
+### 📚 Currently Leveling Up
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/System_Design-0d1117?style=for-the-badge&logo=blueprint&logoColor=00d9ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=E10098&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117"/>
+</p>
+
+</div>
+
+<br>
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<a href="https://github.com/Ashish-coder-gif">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashish-coder-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff&count_private=true&include_all_commits=true" alt="Ashish's GitHub Stats"/>
+</a>
+&nbsp;&nbsp;
+<!-- Top Languages Card -->
+<a href="https://github.com/Ashish-coder-gif">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-coder-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
+
+<br><br>
+
+<!-- Streak Stats -->
+<a href="https://github.com/Ashish-coder-gif">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashish-coder-gif&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
+</a>
+
+<br><br>
+
+<!-- Activity Graph -->
+<a href="https://github.com/Ashish-coder-gif">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish-coder-gif&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&area_color=00d9ff&hide_border=true&custom_title=Ashish's%20Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+</a>
+
+</div>
+
+<br>
+
+<!-- CONTRIBUTION SNAKE -->
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashish-coder-gif/Ashish-coder-gif/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashish-coder-gif/Ashish-coder-gif/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ashish-coder-gif/Ashish-coder-gif/output/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ashish-coder-gif/Ashish-coder-gif/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<sub>🔧 Enable this by setting up the <a href="https://github.com/Platane/snk">snk GitHub Action</a> in your profile repo</sub>
+> ⚙️ *Powered by [snk](https://github.com/Platane/snk) — Set up the GitHub Action in your profile repo to activate this!*
 
 </div>
 
----
+<br>
 
-## 🚀 Featured Projects
+<!-- FEATURED PROJECTS -->
+## 🏆 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/Ashish-coder-gif">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish-coder-gif&repo=banking-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=7b2ff7&text_color=c9d1d9" />
+<a href="https://github.com/Ashish-coder-gif?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ashish-coder-gif&repo=Banking-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6b6b&text_color=c9d1d9" alt="Banking Management System"/>
 </a>
 
 </div>
 
-<br/>
+<br>
+
+<details>
+<summary><b>🗂️ Expand to see all featured projects</b></summary>
+<br>
+
+| # | Project | Tech | What It Does | What I Learned |
+|:-:|:--------|:----:|:-------------|:---------------|
+| 1 | **🏦 Banking Management System** | C, BST | Complete banking system with account management, transactions, and BST-based data storage | Low-level memory management, tree traversal algorithms, file handling |
+| 2 | **🌐 Web Dev Projects** | React, Node.js, HTML/CSS | Collection of full-stack web applications | Component architecture, REST APIs, responsive design |
+| 3 | **🐍 Python Data Viz** | Python, Matplotlib, Pandas | Data analysis & visualization toolkit | Data processing pipelines, statistical analysis, visual storytelling |
+| 4 | **🤝 Open Source Contributions** | Various | Contributing to community-driven projects | Code review, collaboration workflows, writing production-quality code |
+
+</details>
+
+<br>
+
+<!-- 2026 GOALS -->
+## 🎯 2026 Roadmap
+
+<div align="center">
+
+```
+                    ┌──────────────────────────────────────┐
+                    │         2026 MISSION CONTROL          │
+                    └──────────────────────────────────────┘
+
+    Q1 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ Q4
+
+    [■■■■■■■■□□]  Master AWS (Solutions Architect)
+    [■■■■■■□□□□]  Ship 3 Production-Grade Full Stack Apps  
+    [■■■■■□□□□□]  Contribute to 5+ Major Open Source Projects
+    [■■■■□□□□□□]  Crack System Design Fundamentals
+    [■■■□□□□□□□]  Land a Software Engineering Internship
+    [■■□□□□□□□□]  Build & Deploy a SaaS Product
+    [■□□□□□□□□□]  Learn Kubernetes & CI/CD Pipelines
+    [□□□□□□□□□□]  Give a Talk at a Developer Meetup
+```
+
+</div>
 
 <table align="center">
-<thead>
 <tr>
-<th>🛰️ Project</th>
-<th>📖 Description</th>
-<th>🔧 Stack</th>
-<th>🎯 Status</th>
+<td align="center" width="25%">
+
+🏗️ **Build**
+<br>
+Ship production apps that real users interact with. No more tutorial projects.
+
+</td>
+<td align="center" width="25%">
+
+☁️ **Cloud**
+<br>
+AWS Certified. Deploy infrastructure that scales to thousands.
+
+</td>
+<td align="center" width="25%">
+
+🤝 **Contribute**
+<br>
+Give back to the open source ecosystem that taught me everything.
+
+</td>
+<td align="center" width="25%">
+
+📈 **Grow**
+<br>
+From student to engineer. From learner to builder. From local to global.
+
+</td>
 </tr>
-</thead>
-<tbody>
-<tr>
-<td><b>🏦 Banking Mgmt System</b></td>
-<td>Full banking ops in C — BST-powered, O(log n) lookups, ledger, transactions, account lifecycle</td>
-<td><code>C</code> <code>BST</code> <code>DSA</code></td>
-<td>✅ Shipped</td>
-</tr>
-<tr>
-<td><b>🌐 Full Stack Web Apps</b></td>
-<td>Production-quality React + Node.js apps with REST APIs, auth, and DB integration</td>
-<td><code>React</code> <code>Node</code> <code>Express</code></td>
-<td>🔨 Building</td>
-</tr>
-<tr>
-<td><b>📊 Python Data Viz</b></td>
-<td>End-to-end data pipelines, exploration notebooks, and publication-quality charts</td>
-<td><code>Python</code> <code>Pandas</code> <code>Matplotlib</code></td>
-<td>✅ Shipped</td>
-</tr>
-<tr>
-<td><b>🤝 Open Source</b></td>
-<td>Hunting good-first-issues, submitting PRs, reviewing code, building in public</td>
-<td>Various</td>
-<td>🌱 Active</td>
-</tr>
-</tbody>
 </table>
 
----
+<br>
 
-## 🔨 Currently in the Lab
-
-```bash
-$ git status --porcelain
-```
-
-```diff
-+ [BUILDING]  Full-stack production app — auth, API, DB, deployment. The whole stack.
-+ [STUDYING]  AWS Cloud Practitioner — infrastructure, IAM, S3, EC2, VPC
-+ [GRINDING]  System Design — load balancing, caching, CAP theorem, distributed systems
-+ [SHIPPING]  Open source PRs — finding repos, making meaningful contributions
-+ [LEVELING]  DSA advanced — graphs, segment trees, dynamic programming
-~ [PLANNED]   First AI/ML integration in a real project
-```
-
----
-
-## 🧠 Developer Philosophy
+<!-- CURRENT LEARNING -->
+## 📖 Learning Tracker
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   "I don't just want to be someone who knows how to use frameworks.       ║
-║    I want to understand the foundations well enough to build one."        ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+| Domain | Topics | Progress | Resources |
+|:------:|:------:|:--------:|:---------:|
+| ☁️ **Cloud** | AWS EC2, S3, Lambda, IAM, VPC | `████████░░` 80% | AWS Docs, Adrian Cantrill |
+| 🏛️ **System Design** | Load Balancing, Caching, DB Sharding | `██████░░░░` 60% | Grokking SD, Alex Xu |
+| ⚛️ **React Advanced** | Hooks, Context, Performance Optimization | `████████░░` 80% | React Docs, Kent C. Dodds |
+| 🐳 **DevOps** | Docker, CI/CD, GitHub Actions | `███████░░░` 70% | Docker Docs, TechWorld with Nana |
+| 🧮 **DSA** | Trees, Graphs, DP, Greedy | `████████░░` 80% | LeetCode, Striver's SDE Sheet |
 
 </div>
 
-| Principle | What it means in practice |
-|-----------|--------------------------|
-| 🏗️ **Foundations first** | Implemented a BST before building a CRUD app. Know *why* before *how*. |
-| 🔍 **Read the source** | When docs fail, open the repo. The truth lives in the code. |
-| 📦 **Ship, don't perfect** | A shipped MVP beats a perfect repo with 0 commits last month. |
-| 🤝 **Build in public** | Open source everything learnable. Feedback > silence. |
-| 🔁 **Compound learning** | 1% better every day. Stack the reps. Results come later. |
+<br>
 
----
-
-## 🎯 2026 Missions
+<!-- ACHIEVEMENTS -->
+## 🏅 Achievements & Milestones
 
 <div align="center">
 
-| # | Mission | Target | Progress |
-|---|---------|--------|----------|
-| 01 | ☁️ AWS Cloud Practitioner Certified | Q2 2026 | `████░░░░░░` 40% |
-| 02 | 🛠️ Ship 3 full production-grade apps | Dec 2026 | `██░░░░░░░░` 20% |
-| 03 | 🤝 Contribute to 5+ OSS repos | Dec 2026 | `███░░░░░░░` 30% |
-| 04 | 💼 Secure a software engineering internship | Mid 2026 | `█████░░░░░` 50% |
-| 05 | 🧠 Complete a System Design curriculum | Q3 2026 | `██░░░░░░░░` 20% |
-| 06 | 🤖 Build a project with real AI/ML | Q4 2026 | `█░░░░░░░░░` 10% |
-| 07 | ✍️ Launch a technical blog | Q2 2026 | `████░░░░░░` 40% |
+<img src="https://github-profile-trophy.vercel.app/?username=Ashish-coder-gif&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="80%"/>
 
 </div>
 
----
-
-## 🏆 Trophy Case
+<br>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ashish-coder-gif&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+| Badge | Achievement |
+|:-----:|:------------|
+| 🏦 | Built a complete Banking System from scratch using C & BST — no frameworks, no shortcuts |
+| 🌐 | Developed full-stack web applications with React & Node.js |
+| 🐍 | Created data visualization projects that turn raw data into insights |
+| 🤝 | Active open source contributor — because good code should be shared |
+| ☁️ | Diving deep into AWS cloud architecture — building for scale |
+| 📐 | Applied DSA concepts to solve real-world engineering problems |
 
 </div>
 
----
+<br>
 
-## 📬 Find Me
+<!-- WEEKLY CODING STATS -->
+## ⏱️ Weekly Dev Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Java         ████████████░░░░░░░░░   35.2%
+JavaScript   ██████████░░░░░░░░░░░   25.8%
+Python       ██████░░░░░░░░░░░░░░░   18.4%
+C/C++        ████░░░░░░░░░░░░░░░░░   12.1%
+Other        ██░░░░░░░░░░░░░░░░░░░    8.5%
+```
+<!--END_SECTION:waka-->
+
+> 💡 *Set up [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) to auto-populate this section with real data!*
+
+<br>
+
+<!-- SPOTIFY / NOW PLAYING -->
+## 🎧 Coding Soundtrack
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ashish-dohare">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+> 🎵 *Connect your [Spotify](https://github.com/kittinan/spotify-github-profile) to show what you're vibing to while coding!*
+
+</div>
+
+<br>
+
+<!-- RANDOM DEV QUOTE -->
+## 💭 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br>
+
+<!-- CONNECT -->
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Ashish-coder-gif" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Ashish--coder--gif-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ashish-dohare" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ashish_Dohare-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:ashishdohare@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-ashishdohare-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/ashish_dohare" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@ashish__dohare-0d1117?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter"/>
+</a>
+
+<br><br>
+
+> 📬 **Open for:** Internship Opportunities • Open Source Collaborations • Freelance Projects • Tech Discussions
+
+</div>
+
+<br>
+
+<!-- METRICS -->
+<div align="center">
+
+## 📈 Profile Metrics
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ashish-coder-gif&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&layout=compact" alt="WakaTime Stats" />
+
+</div>
+
+<br>
+
+<!-- SUPPORT -->
+<div align="center">
+
+### ☕ If my work helped you, consider:
+
+<a href="https://www.buymeacoffee.com/ashishdohare">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
 &nbsp;
 <a href="https://github.com/Ashish-coder-gif">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/⭐_Star_My_Repos-00d9ff?style=for-the-badge"/>
 </a>
-&nbsp;
-<a href="mailto:ashishdohare@example.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://twitter.com/ashishcoder">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" />
-</a>
-
-<br/><br/>
-
-> 💬 *I reply to every DM about internships, open source, or just nerding out about tech.*
 
 </div>
 
----
+<br>
 
-<details>
-<summary><b>🔐 Secret Level Unlocked — For Developers Only</b></summary>
-
-<br/>
-
-```
-You made it to the bottom. Respect.
-
-Here's something most people skip:
-
-$ man ashish
-
-NAME
-    ashish — a developer worth knowing
-
-SYNOPSIS
-    ashish [--build] [--collab] [--hire]
-
-OPTIONS
-    --build     Brings ideas from zero to deployed
-    --collab    Prefers pairing over solo
-    --hire      Currently available for internships
-
-BUGS
-    Occasionally over-engineers simple problems.
-    Compensates by reading the source code instead of the docs.
-
-SEE ALSO
-    github(1), linux(1), coffee(∞)
-```
-
-</details>
-
-<details>
-<summary><b>⚙️ My Dev Environment</b></summary>
-
-<br/>
-
-```toml
-[system]
-os         = "Ubuntu / WSL2"
-editor     = "VS Code + Vim keybindings"
-terminal   = "Zsh + Oh My Zsh + Starship"
-multiplexer = "tmux"
-
-[preferences]
-indentation = "spaces (2)"
-theme       = "Tokyo Night"
-font        = "JetBrains Mono"
-music       = "lo-fi hip hop radio 🎵"
-coffee      = "black, no sugar, always"
-
-[philosophy]
-tabs_vs_spaces = "spaces. end of discussion."
-dark_vs_light  = "dark mode or nothing"
-vim_vs_emacs   = "vim. obviously."
-```
-
-</details>
-
-<details>
-<summary><b>🧩 Binary Easter Egg</b></summary>
-
-<br/>
-
-```
-01000111 01110010 01100101 01100001 01110100
-00100000 01100100 01100101 01110110 01110011
-00100000 01110010 01100101 01100001 01100100
-00100000 01100100 01101111 01100011 01110011
-```
-
-> Decode it. You already know how. 👾
-
-</details>
-
----
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer" width="100%"/>
 
 <div align="center">
 
-### 💡 Random Dev Quote
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║   "The best time to plant a tree was 20 years ago.                      ║
+║    The second best time is now.                                          ║
+║    The best time to write clean code was at the start of the project.   ║
+║    The second best time is also now."                                    ║
+║                                                                          ║
+║                              — Every senior dev ever                     ║
+║                                                                          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║                                                                          ║
+║              ⚡ Built with obsession, shipped with pride ⚡              ║
+║                                                                          ║
+║                  Made with 🖤 by Ashish Dohare                          ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<br>
 
-<br/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I genuinely enjoy connecting with developers</b> — if you want to say hi, I'll be happy to meet you! 😊
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:00f5ff&height=120&section=footer&text=Let's+build+something+great&fontColor=ffffff&fontSize=22&fontAlignY=70&animation=fadeIn" width="100%" />
+<br>
+
+<!-- EASTER EGG: You found it! Here's another secret for the curious dev -->
+<!-- 
+    ██████╗ ███████╗██╗   ██╗███████╗
+    ██╔══██╗██╔════╝██║   ██║██╔════╝
+    ██║  ██║█████╗  ██║   ██║███████╗
+    ██║  ██║██╔══╝  ╚██╗ ██╔╝╚════██║
+    ██████╔╝███████╗ ╚████╔╝ ███████║
+    ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝
+    
+    WHO READ THE SOURCE WIN.
+    
+    Secret handshake: If you ever meet me, say "I found the matrix" 
+    and I'll know you're one of us. 🤝
+    
+    P.S. — Yes, I indent with spaces. Fight me.
+-->
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+
+<!-- 
+    Last updated: 2026
+    Crafted with precision, not templates.
+    
+    Fun stats:
+    - Lines in this README: 300+
+    - Easter eggs hidden: 3
+    - Hours of coffee consumed while coding: ∞
+    - Bugs squashed: Still counting...
+    
+    If you've read this far into the source, you're either:
+    a) A recruiter (hire me!)
+    b) A fellow dev (let's build something!)
+    c) A bot (beep boop, nice to meet you too)
+-->
+```
