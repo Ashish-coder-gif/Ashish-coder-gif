@@ -68,11 +68,16 @@ Docker      █████████████░░░░░░░░░�
 
 ---
 
+### ▍ featured.project
+
+**3D Portfolio Website**  
+Interactive one-page developer portfolio with a custom 3D scene built using React, TypeScript, React Three Fiber, and GSAP.
+
 ### ▍ pinned.repos
 
 | ░ | Project | Description | Stack |
 |---|---------|-------------|-------|
-| `01` | [**my-blank-project**](https://github.com/Ashish-coder-gif/my-blank-project) | Add your killer description — make people stop scrolling | — |
+| `01` | [**3d-portfolio**](https://github.com/Ashish-coder-gif/3d-portfolio) | Modern 3D portfolio site showcasing interactive visuals and motion design | React, Three.js, GSAP |
 | `02` | [**first-contributions**](https://github.com/Ashish-coder-gif/first-contributions) | 🚀✨ Help beginners make their first open source contribution | OSS |
 | `03` | [**matplotlib**](https://github.com/Ashish-coder-gif/matplotlib) | Forked · plotting with Python | Python |
 | `04` | [**uftrace**](https://github.com/Ashish-coder-gif/uftrace) | Forked · function graph tracer C/C++/Rust/Python | C |
